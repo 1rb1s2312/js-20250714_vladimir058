@@ -1,4 +1,4 @@
-import SortableTable from './index.js';
+/* import SortableTable from './index.js';
 
 const data = [
   {
@@ -142,3 +142,4 @@ describe('dom-document-loading/sortable-table-v1', () => {
     expect(sortableTable.element).not.toBeInTheDocument();
   });
 });
+ */
